@@ -20,4 +20,4 @@ Je conçois des apps utiles et bien fichues, et je documente ce que je fais.
 ## 👋 Contact
 - ✉️  ricoeurlaurent@gmail.com  
 - 💼  LinkedIn : https://linkedin.com/in/laurent-ricoeur  
-- 💻  CV : [Mon CV (PDF)](CV_Laurent_Ricoeur.pdf)
+- 💻  CV : [Mon CV (PDF)](Cv_Laurent_Ricoeur.pdf)
