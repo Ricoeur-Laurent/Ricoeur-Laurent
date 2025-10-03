@@ -1,16 +1,22 @@
-## Hi there 👋
+# Salut 👋 moi c’est Laurent
+**Développeur Web Fullstack** (ex-manager reconverti).  
+Je conçois des apps utiles et bien fichues, et je documente ce que je fais.
 
-<!--
-**Ricoeur-Laurent/Ricoeur-Laurent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projets
+- **ZombieLand** — App fullstack (Next.js, Express, PostgreSQL, Stripe) – *projet d’équipe*  
+  👉 Repo : https://github.com/Ricoeur-Laurent/Zombieland
+- **Site vitrine (en cours)** — Projet LBS (Next.js) avec paiement & BDD  
+  👉 Repo : https://github.com/Ricoeur-Laurent/LBS-Project
 
-Here are some ideas to get you started:
+## 🧰 Toolbox
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Contact
+- ✉️  ricoeurlaurent@gmail.com  
+- 💼  LinkedIn : https://linkedin.com/in/laurent-ricoeur  
